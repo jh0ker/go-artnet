@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/jsimonetti/go-artnet/packet"
-	"github.com/jsimonetti/go-artnet/packet/code"
+	"github.com/jh0ker/go-artnet/packet"
+	"github.com/jh0ker/go-artnet/packet/code"
 )
 
 // Address contains a universe address

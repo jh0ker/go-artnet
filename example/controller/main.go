@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	artnet "github.com/jsimonetti/go-artnet"
+	artnet "github.com/jh0ker/go-artnet"
 )
 
 func main() {
